@@ -1,4 +1,4 @@
-# novel-based-movies
+# Creating dataset for movies based on novels
 
 Creating a custom dataset useful for performing analysis of movies that were based on novels. This project helps to learn skills required for data acquisition, extraction, cleaning and preprocessing.
 
